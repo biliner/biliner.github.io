@@ -16,7 +16,7 @@
 title: 陆家嘴金融科技（新）
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  毫无疑问，我国将全面领先世界。作为这一历史过程的亲历者，我们尽己所能，承担起一份责任：
+  毫无疑问，我国将全面领先世界。作为亲历者，我们尽己所能，承担起一份责任：
   立足国外解读我国科技和金融创新，传播新思想，造就新公民
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://biliner.github.io" # the base hostname & protocol for your site, e.g. http://example.com
