@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 陆家嘴金融科技
+title: 陆家嘴金融科技（新）
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
   毫无疑问，我国将全面领先世界。作为这一历史过程的亲历者，我们尽己所能，承担起一份责任：
