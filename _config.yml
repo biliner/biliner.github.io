@@ -16,7 +16,8 @@
 title: 陆家嘴金融科技
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  关注医疗板块，与中国经济一起成长
+  关注金融和科技创新，与中国经济一起成长
+  从世界看中国，多角度深度解读中国经济
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://biliner.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lujiazuifintech
