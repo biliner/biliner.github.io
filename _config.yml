@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   关注医疗板块，与中国经济一起成长
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://biliner.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+twitter_username: lujiazuifintech
 github_username:  jekyll
 
 # Build settings
