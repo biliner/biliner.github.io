@@ -1,7 +1,12 @@
 ---
 layout: page
-title: "关于我们"
+title: "新闻来源"
 permalink: /about/
 ---
+<span style="background-color: #8ba06f">&nbsp;&nbsp;1&nbsp;&nbsp;</span>&nbsp; [FT中文网](http://www.ftchinese.com/)
 
-不能寂寞，遂不得自由
+<span style="background-color: #8ba06f">&nbsp;&nbsp;2&nbsp;&nbsp;</span>&nbsp; [The New York Times](https://www.nytimes.com/)
+
+<span style="background-color: #8ba06f">&nbsp;&nbsp;3&nbsp;&nbsp;</span>&nbsp; [Deutsche Welle](http://www.dw.com/en)
+
+<span style="background-color: #8ba06f">&nbsp;&nbsp;4&nbsp;&nbsp;</span>&nbsp; [路透中文网](https://cn.reuters.com/)
