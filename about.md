@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "新闻来源"
+title: "新闻源"
 permalink: /about/
 ---
 <span style="background-color: #8ba06f">&nbsp;&nbsp;1&nbsp;&nbsp;</span>&nbsp; [FT中文网](http://www.ftchinese.com/)
