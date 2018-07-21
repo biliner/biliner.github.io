@@ -16,7 +16,7 @@
 title: 陆家嘴金融科技
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  新思想，新财富
+  新思想，新财富，新公民
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://biliner.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lujiazuifintech
@@ -25,8 +25,8 @@ github_username:
 # Build settings
 markdown: kramdown
 theme: minima
-#plugins:
-#  - jekyll-feed
+plugins:
+  - jekyll-feed
 excerpt_separator: <!--more-->
 show_excerpts: true
 
