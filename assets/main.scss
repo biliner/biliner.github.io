@@ -16,6 +16,9 @@
   background: #dedede; }
   
 .post-title {
+  font-size: 42px;
+  letter-spacing: -1px;
+  line-height: 1; }
   @media screen and (max-width: 800px) {
     .post-title {
       font-size: 26px; } }
