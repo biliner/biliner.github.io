@@ -14,3 +14,8 @@
   
 .post-link {
   background: #dedede; }
+  
+.post-title {
+  @media screen and (max-width: 800px) {
+    .post-title {
+      font-size: 26px; } }
