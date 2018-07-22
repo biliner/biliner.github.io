@@ -16,3 +16,5 @@ permalink: /about/
 <span style="background-color: #8ba06f">&nbsp;&nbsp;6&nbsp;&nbsp;</span>&nbsp; [华尔街见闻](https://wallstreetcn.com/)
 
 <span style="background-color: #8ba06f">&nbsp;&nbsp;7&nbsp;&nbsp;</span>&nbsp; [凤凰网](http://www.ifeng.com/)
+
+<span style="background-color: #8ba06f">&nbsp;&nbsp;7&nbsp;&nbsp;</span>&nbsp; [BBC](http://http://www.bbc.com/)
