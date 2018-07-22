@@ -30,6 +30,7 @@ plugins:
   - jekyll-feed
 excerpt_separator: <!--more-->
 show_excerpts: true
+rss: rss
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
