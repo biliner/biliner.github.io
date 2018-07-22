@@ -17,4 +17,4 @@ permalink: /about/
 
 <span style="background-color: #8ba06f">&nbsp;&nbsp;7&nbsp;&nbsp;</span>&nbsp; [凤凰网](http://www.ifeng.com/)
 
-<span style="background-color: #8ba06f">&nbsp;&nbsp;7&nbsp;&nbsp;</span>&nbsp; [BBC](http://http://www.bbc.com/)
+<span style="background-color: #8ba06f">&nbsp;&nbsp;7&nbsp;&nbsp;</span>&nbsp; [BBC](http://www.bbc.com/)
