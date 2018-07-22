@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: 陆家嘴金融科技
+author: 陆家嘴金融科技信息网
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
   新思想，新财富，新公民
