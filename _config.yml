@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: 德国Retaron护眼营养胶囊
-author: Eu exprss Inc.
+author: Europe exprss Inc.
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
   Made for you
